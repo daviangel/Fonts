@@ -1,0 +1,91 @@
+// !$*UTF8*$!
+{
+	E354358D12C08A3B0029E876 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E3A972F013435A81000212B4 /* Fonts */;
+		activeTarget = E354359912C08A3C0029E876 /* Fonts */;
+		codeSenseManager = E3A9730913435A91000212B4 /* Code sense */;
+		executables = (
+			E3A972F013435A81000212B4 /* Fonts */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 323181185;
+			PBXWorkspaceStateSaveDate = 323181185;
+		};
+		sourceControlManager = E3A9730813435A91000212B4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E354359912C08A3C0029E876 /* Fonts */ = {
+		activeExec = 0;
+		executables = (
+			E3A972F013435A81000212B4 /* Fonts */,
+		);
+	};
+	E35435BB12C08A3C0029E876 /* FontsTests */ = {
+		activeExec = 0;
+	};
+	E3A972F013435A81000212B4 /* Fonts */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Fonts;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E3A9730813435A91000212B4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E3A9730913435A91000212B4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
